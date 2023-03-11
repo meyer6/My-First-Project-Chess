@@ -1,2 +1,2 @@
-# My-First-Project---Chess
+# My-First-Project-Chess
 The very first major project I programmed
